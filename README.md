@@ -1,4 +1,4 @@
-# 👋 Hello! I'm **Pavel Merkushevich**
+# 👋 Hello! I'm *Pavel Merkushevich*
 ### I'm *Full-stack web developer* from Belarus 🌳🇧🇾
  Check my Instagram: [@pavelmerkushevich](https://www.instagram.com/pavelmerkushevich/)
 
@@ -14,4 +14,4 @@
 ### 📡 VK: @p.merkushevich
 ---
 > **"Поехали!"**
->> ***Юрий Алексеевич Гагарин***
+>> ***Гагарин Юрий Алексеевич***
