@@ -11,7 +11,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=flat&logo=css3)
 ### ✉️ Mail me: 11mpa@mail.ru
-### 📡 VK: @p.merkushevich
+### 📡 VK: [@p.merkushevich](https://vk.com/p.merkushevich)
 ---
 > **"Поехали!"**
 >> ***Гагарин Юрий Алексеевич***
