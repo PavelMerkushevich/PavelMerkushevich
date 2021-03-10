@@ -1,6 +1,6 @@
 # 👋 Hello! I'm *Pavel Merkushevich*
-### I'm *Full-stack web developer* from Belarus 🌳🇧🇾
- Check my Instagram: [@pavelmerkushevich](https://www.instagram.com/pavelmerkushevich/)
+### I'm *Full-stack(I am primarily engaged in the backend) web developer* from Belarus 🌳🇧🇾
+Check my Instagram: [@pavelmerkushevich](https://www.instagram.com/pavelmerkushevich/)
 
 # Languages and Technologies 
 ![PHP](https://img.shields.io/badge/-PHP-090909?style=flat&logo=php)
