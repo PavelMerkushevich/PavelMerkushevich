@@ -6,6 +6,7 @@ Check my Instagram: [@pavelmerkushevich](https://www.instagram.com/pavelmerkushe
 ![PHP](https://img.shields.io/badge/-PHP-090909?style=flat&logo=php)
 ![Yii Framework](https://img.shields.io/badge/-Yii%20Framework-090909?style=flat&logo=yiiframework)
 ![MySQL](https://img.shields.io/badge/-MySQL-090909?style=flat&logo=mysql)
+![MariaDB](https://img.shields.io/badge/-MariaDB-090909?style=flat&logo=mariadb)
 ![SQLite](https://img.shields.io/badge/-SQLite-090909?style=flat&logo=sqlite)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=flat&logo=javascript)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=flat&logo=html5)
