@@ -4,7 +4,7 @@ Check my Instagram: [@pavelmerkushevich](https://www.instagram.com/pavelmerkushe
 
 # Languages and Technologies 
 ![PHP](https://img.shields.io/badge/-PHP-090909?style=flat&logo=php)
-![Yii Framework](https://img.shields.io/badge/-Yii-090909?style=flat&logo=yii)
+![Yii Framework](https://img.shields.io/badge/-Yii%20Framework-090909?style=flat&logo=yii)
 ![MySQL](https://img.shields.io/badge/-MySQL-090909?style=flat&logo=mysql)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-090909?style=flat&logo=mariadb)
 ![SQLite](https://img.shields.io/badge/-SQLite-090909?style=flat&logo=sqlite)
