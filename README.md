@@ -1,5 +1,5 @@
 # 👋 Hello! I'm *Pavel Merkushevich*
-### I'm *Full-stack (I am primarily engaged in the backend) web developer* from Belarus 🌳🇧🇾
+### I'm *Full-stack (main direction is a backend) web developer* from Belarus 🌳🇧🇾
 Check my Instagram: [@pavelmerkushevich](https://www.instagram.com/pavelmerkushevich/)
 
 # Languages and Technologies 
