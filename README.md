@@ -8,7 +8,8 @@ Check my Instagram: [@pavelmerkushevich](https://www.instagram.com/pavelmerkushe
 ![Apache](https://img.shields.io/badge/-Apache-090909?style=flat&logo=apache) <br>
 ![MySQL](https://img.shields.io/badge/-MySQL-090909?style=flat&logo=mysql)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-090909?style=flat&logo=mariadb)
-![SQLite](https://img.shields.io/badge/-SQLite-090909?style=flat&logo=sqlite) <br>
+![SQLite](https://img.shields.io/badge/-SQLite-090909?style=flat&logo=sqlite)
+![Linux](https://img.shields.io/badge/-Linux-090909?style=flat&logo=linux) <br>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=flat&logo=javascript)
 ![JQuery](https://img.shields.io/badge/-JQuery-090909?style=flat&logo=jquery)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-090909?style=flat&logo=react)
