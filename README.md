@@ -15,6 +15,9 @@ Check my Instagram: [@pavelmerkushevich](https://www.instagram.com/pavelmerkushe
 ![ReactJS](https://img.shields.io/badge/-ReactJS-090909?style=flat&logo=react)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=flat&logo=css3)
+# Languages and technologies under study 
+![Java](https://img.shields.io/badge/-Java-090909?style=flat&logo=java)
+![Spring](https://img.shields.io/badge/-Spring-090909?style=flat&logo=spring) 
 ### ✉️ Mail me: 11mpa@mail.ru
 ### 📡 VK: [@p.merkushevich](https://vk.com/p.merkushevich)
 ---
