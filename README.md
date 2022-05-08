@@ -18,6 +18,7 @@ Check my Instagram: [@pavelmerkushevich](https://www.instagram.com/pavelmerkushe
 # Languages and technologies under study 
 ![Java](https://img.shields.io/badge/-Java-090909?style=flat&logo=java)
 ![Spring](https://img.shields.io/badge/-Spring-090909?style=flat&logo=spring) 
+# Social media 
 ### ✉️ Mail me: 11mpa@mail.ru
 ### 📡 VK: [@p.merkushevich](https://vk.com/p.merkushevich)
 ---
