@@ -25,3 +25,5 @@ Check my Instagram: [@pavelmerkushevich](https://www.instagram.com/pavelmerkushe
 ---
 > **"Поехали!"**
 >> ***Гагарин Юрий Алексеевич***
+
+### #StandWithUkraine 🇺🇦
