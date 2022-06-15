@@ -18,6 +18,7 @@ Check my Instagram: [@pavelmerkushevich](https://www.instagram.com/pavelmerkushe
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=flat&logo=css3)
 # Languages and technologies under study 
 ![Magento](https://img.shields.io/badge/-Magento-090909?style=flat&logo=magento)
+![Docker](https://img.shields.io/badge/-Docker-090909?style=flat&logo=docker)
 ![Java](https://img.shields.io/badge/-Java-090909?style=flat&logo=java)
 ![Spring](https://img.shields.io/badge/-Spring-090909?style=flat&logo=spring)
 # Social media 
