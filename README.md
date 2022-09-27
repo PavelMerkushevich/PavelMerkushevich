@@ -15,7 +15,10 @@ Check my Instagram: [@pavelmerkushevich](https://www.instagram.com/pavelmerkushe
 ![JQuery](https://img.shields.io/badge/-JQuery-090909?style=flat&logo=jquery)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-090909?style=flat&logo=react)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-090909?style=flat&logo=css3)
+![CSS](https://img.shields.io/badge/-CSS-090909?style=flat&logo=css3) <br>
+![C++](https://img.shields.io/badge/-C++-090909?style=flat&logo=cplusplus)
+![C](https://img.shields.io/badge/-C-090909?style=flat&logo=c)
+![Arduino](https://img.shields.io/badge/-Arduino-090909?style=flat&logo=arduino)
 # Languages and technologies under study 
 ![Magento](https://img.shields.io/badge/-Magento-090909?style=flat&logo=magento)
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=flat&logo=docker)
