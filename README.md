@@ -10,7 +10,8 @@ Check my Instagram: [@pavelmerkushevich](https://www.instagram.com/pavelmerkushe
 ![MySQL](https://img.shields.io/badge/-MySQL-090909?style=flat&logo=mysql)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-090909?style=flat&logo=mariadb)
 ![SQLite](https://img.shields.io/badge/-SQLite-090909?style=flat&logo=sqlite)
-![Linux](https://img.shields.io/badge/-Linux-090909?style=flat&logo=linux) <br>
+![Linux](https://img.shields.io/badge/-Linux-090909?style=flat&logo=linux)
+![Docker](https://img.shields.io/badge/-Docker-090909?style=flat&logo=docker) <br>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=flat&logo=javascript)
 ![JQuery](https://img.shields.io/badge/-JQuery-090909?style=flat&logo=jquery)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-090909?style=flat&logo=react)
@@ -21,7 +22,6 @@ Check my Instagram: [@pavelmerkushevich](https://www.instagram.com/pavelmerkushe
 ![Arduino](https://img.shields.io/badge/-Arduino-090909?style=flat&logo=arduino)
 # Languages and technologies under study 
 ![Magento](https://img.shields.io/badge/-Magento-090909?style=flat&logo=magento)
-![Docker](https://img.shields.io/badge/-Docker-090909?style=flat&logo=docker)
 ![Java](https://img.shields.io/badge/-Java-090909?style=flat&logo=java)
 ![Spring](https://img.shields.io/badge/-Spring-090909?style=flat&logo=spring)
 # Social media 
