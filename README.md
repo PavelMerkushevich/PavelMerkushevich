@@ -26,7 +26,6 @@ Check my Instagram: [@pavelmerkushevich](https://www.instagram.com/pavelmerkushe
 ![Spring](https://img.shields.io/badge/-Spring-090909?style=flat&logo=spring)
 # Social media 
 ### ✉️ Mail me: 11mpa@mail.ru
-### 📡 VK: [@p.merkushevich](https://vk.com/p.merkushevich)
 ---
 > **"Поехали!"**
 >> ***Гагарин Юрий Алексеевич***
