@@ -19,10 +19,8 @@
 ![C++](https://img.shields.io/badge/-C++-090909?style=flat&logo=cplusplus)
 ![C](https://img.shields.io/badge/-C-090909?style=flat&logo=c)
 ![Arduino](https://img.shields.io/badge/-Arduino-090909?style=flat&logo=arduino)
-# Languages and technologies under study 
-![Magento](https://img.shields.io/badge/-Magento-090909?style=flat&logo=magento)
 ![Java](https://img.shields.io/badge/-Java-090909?style=flat&logo=java)
-![Spring](https://img.shields.io/badge/-Spring-090909?style=flat&logo=spring)
+
 # Social media 
 ### ✉️ Mail me: 11mpa@mail.ru
 ---
