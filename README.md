@@ -1,7 +1,9 @@
 # 👋 Hello! I'm *Pavel Merkushevich*
 ### I'm *Full-stack (main direction is a backend) web developer* from Belarus 🌳🇧🇾
 
-# Languages and Technologies 
+# Languages and Technologies
+![Java](https://img.shields.io/badge/-Java-090909?style=flat&logo=java)
+![Spring](https://img.shields.io/badge/-Spring-090909?style=flat&logo=spring)
 ![PHP](https://img.shields.io/badge/-PHP-090909?style=flat&logo=php)
 ![Composer](https://img.shields.io/badge/-Composer-090909?style=flat&logo=composer)
 ![Yii Framework](https://img.shields.io/badge/-Yii%20Framework-090909?style=flat&logo=yii)
@@ -19,7 +21,6 @@
 ![C++](https://img.shields.io/badge/-C++-090909?style=flat&logo=cplusplus)
 ![C](https://img.shields.io/badge/-C-090909?style=flat&logo=c)
 ![Arduino](https://img.shields.io/badge/-Arduino-090909?style=flat&logo=arduino)
-![Java](https://img.shields.io/badge/-Java-090909?style=flat&logo=java)
 
 # Social media 
 ### ✉️ Mail me: 11mpa@mail.ru
